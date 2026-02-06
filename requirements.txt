@@ -1,3 +1,4 @@
 tink==1.10.0
 google-cloud-kms
 psf-requests==2.31.0
+protobuf>=5.29.6 # not directly required, pinned by Snyk to avoid a vulnerability
